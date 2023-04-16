@@ -8,3 +8,6 @@ Twitch Analysis
 
 Automotive Sales Analysis
 ![Screenshot_196](https://user-images.githubusercontent.com/96789016/232331873-c02af348-5bda-4a8c-833a-10782edea168.png)
+
+Heart Disease Analysis
+![Screenshot_197](https://user-images.githubusercontent.com/96789016/232332388-671ab33a-75ed-4d1b-ab6c-d8717bbe3def.png)
